@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Shane\\Documents\\Unreal Projects\\FPSGame_Capstone\\CapstonePROJ\\Source\\CapstonePROJ\\CapstonePROJ.Build.cs",
+		"C:\\Users\\Shane\\Documents\\Unreal Projects\\FPSGame_Capstone\\CapstonePROJ\\Source\\CapstonePROJ.Target.cs",
+		"C:\\Users\\Shane\\Documents\\Unreal Projects\\FPSGame_Capstone\\CapstonePROJ\\Source\\CapstonePROJEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

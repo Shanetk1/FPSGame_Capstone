@@ -1,0 +1,3 @@
+C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\CapstonePROJ\Intermediate\Build\Win64\UE4Editor\Development\CapstonePROJ\Definitions.CapstonePROJ.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

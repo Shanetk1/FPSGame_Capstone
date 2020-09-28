@@ -32,6 +32,9 @@ public:
 	UPROPERTY(EditAnywhere, Category = "Mesh")
 		class USkeletalMeshComponent* hands;
 
+	UPROPERTY(EditAnywhere, Category = "Mesh")
+		class USkeletalMeshComponent* gun;
+
 		UPROPERTY(EditAnywhere, Category = "Mesh")
 		class USpringArmComponent* springArm;
 
@@ -40,4 +43,8 @@ public:
 	void vertMove(float val);
 	void horiRot(float val);
 	void vertRot(float val);
+
+	//Action Inputs
+	void leftClick();
+
 };

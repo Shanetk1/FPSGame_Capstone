@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Capstone.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7A372737-6A5C-4AEB-A82B-8CCD1C77659C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Capstone.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CapstoneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5A61C5D2-E6F9-4DCE-9F04-34BAE66B76A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Capstone">
+      <UniqueIdentifier>{CE91943D-2C3F-4D8D-AF10-CE02348193FD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Capstone\Capstone.Build.cs">
+      <Filter>Source\Capstone</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Capstone\Capstone.cpp">
+      <Filter>Source\Capstone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Capstone\Capstone.h">
+      <Filter>Source\Capstone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Capstone\CapstoneCharacter.cpp">
+      <Filter>Source\Capstone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Capstone\CapstoneCharacter.h">
+      <Filter>Source\Capstone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Capstone\CapstoneGameMode.cpp">
+      <Filter>Source\Capstone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Capstone\CapstoneGameMode.h">
+      <Filter>Source\Capstone</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

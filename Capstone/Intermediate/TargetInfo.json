@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Capstone",
+			"Path": "C:\\Users\\Shane\\Documents\\Unreal Projects\\FPSGame_Capstone\\Capstone\\Source\\Capstone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CapstoneEditor",
+			"Path": "C:\\Users\\Shane\\Documents\\Unreal Projects\\FPSGame_Capstone\\Capstone\\Source\\CapstoneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

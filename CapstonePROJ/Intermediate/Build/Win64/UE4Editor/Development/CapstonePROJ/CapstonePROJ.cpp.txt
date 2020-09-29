@@ -1,2 +1,0 @@
-C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\CapstonePROJ\Intermediate\Build\Win64\UE4Editor\Development\CapstonePROJ\Definitions.CapstonePROJ.h
-C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\CapstonePROJ\Source\CapstonePROJ\CapstonePROJ.h

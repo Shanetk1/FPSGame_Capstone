@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Capstone.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\CapstoneEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\Capstone.cpp.obj"
+"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\CapstoneCharacter.cpp.obj"
+"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\CapstoneGameMode.cpp.obj"
+"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\Capstone.init.gen.cpp.obj"
+"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\CapstoneCharacter.gen.cpp.obj"
+"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\CapstoneGameMode.gen.cpp.obj"
+"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\Default.rc2.res"
+/OUT:"C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone.lib"
+/INCLUDE:IMPLEMENT_MODULE_Capstone

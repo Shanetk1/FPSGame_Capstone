@@ -1,0 +1,9 @@
+C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\Definitions.Capstone.h
+C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\MyAI.h
+C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\ArriveAlgorithm.h
+C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\SteeringOutput.h
+C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Inc\Capstone\MyAI.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/CapsuleComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CapsuleComponent.generated.h

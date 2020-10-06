@@ -1,0 +1,1548 @@
+﻿Log file open, 10/05/20 18:11:40
+LogInit: Display: Running engine for game: Capstone
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.278174
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Engine.ini]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Engine.ini]
+[2020.10.05-22.11.41:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Engine.ini]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Engine.ini]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.05-22.11.41:314][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.05-22.11.41:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Engine.ini]
+[2020.10.05-22.11.41:315][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Engine.ini]
+[2020.10.05-22.11.41:317][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.05-22.11.41:317][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.05-22.11.41:318][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.05-22.11.41:319][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.05-22.11.41:319][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.05-22.11.41:319][  0]LogHAL: Display: Platform has ~ 16 GB [17039638528 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.05-22.11.41:319][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.05-22.11.41:319][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.05-22.11.41:319][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Scalability.ini]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.05-22.11.41:320][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.05-22.11.41:327][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.05-22.11.41:327][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.05-22.11.41:327][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.05-22.11.41:327][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Config/Windows/Engine.ini]
+[2020.10.05-22.11.41:327][  0]LogInit: Computer: DESKTOP-GPJ5O93
+[2020.10.05-22.11.41:327][  0]LogInit: User: Shane
+[2020.10.05-22.11.41:327][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.05-22.11.41:327][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.05-22.11.41:327][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.10.05-22.11.41:327][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.05-22.11.41:327][  0]LogMemory: Process Physical Memory: 115.11 MB used, 115.11 MB peak
+[2020.10.05-22.11.41:327][  0]LogMemory: Process Virtual Memory: 98.29 MB used, 98.29 MB peak
+[2020.10.05-22.11.41:327][  0]LogMemory: Physical Memory: 6013.01 MB used,  10237.25 MB free, 16250.27 MB total
+[2020.10.05-22.11.41:327][  0]LogMemory: Virtual Memory: 5145.20 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.10.05-22.11.41:333][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.05-22.11.41:525][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.05-22.11.41:526][  0]LogInit: Using OS detected language (en-US).
+[2020.10.05-22.11.41:526][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.05-22.11.41:533][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.05-22.11.41:792][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.05-22.11.41:884][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.05-22.11.41:884][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.05-22.11.44:822][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.05-22.11.44:822][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.05-22.11.44:822][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.05-22.11.44:822][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.05-22.11.44:888][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.10.05-22.11.44:888][  0]LogD3D11RHI:       4018/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.10.05-22.11.44:911][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.10.05-22.11.44:911][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.05-22.11.44:913][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.05-22.11.44:913][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.05-22.11.44:913][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.05-22.11.44:919][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.05-22.11.44:919][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.10.05-22.11.44:920][  0]LogWindows: EnumDisplayDevices:
+[2020.10.05-22.11.44:920][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.10.05-22.11.44:920][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.05-22.11.44:920][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.10.05-22.11.44:920][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.10.05-22.11.44:921][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.10.05-22.11.44:921][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.10.05-22.11.44:921][  0]LogD3D11RHI:   Driver Version: 456.55 (internal:27.21.14.5655, unified:456.55)
+[2020.10.05-22.11.44:921][  0]LogD3D11RHI:      Driver Date: 9-24-2020
+[2020.10.05-22.11.44:921][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.10.05-22.11.44:968][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.05-22.11.44:970][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.10.05-22.11.44:970][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.05-22.11.44:970][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.05-22.11.45:002][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.05-22.11.45:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.05-22.11.45:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.05-22.11.45:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.05-22.11.45:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.05-22.11.45:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.05-22.11.45:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.05-22.11.45:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.05-22.11.45:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.05-22.11.45:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.05-22.11.45:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.05-22.11.45:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.05-22.11.45:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.05-22.11.45:547][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.05-22.11.45:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.05-22.11.45:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.05-22.11.45:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.05-22.11.45:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.05-22.11.45:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.05-22.11.45:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.05-22.11.45:603][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.05-22.11.45:644][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.05-22.11.45:733][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Intermediate/Shaders/WorkingDirectory/6528/).
+[2020.10.05-22.11.45:733][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shane/AppData/Local/Temp/UnrealShaderWorkingDir/7E7CFA5349C263B4C4ADFB96D40E96DC/'.
+[2020.10.05-22.11.45:734][  0]LogXGEController: Cleaning working directory: C:/Users/Shane/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.05-22.11.45:734][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.10.05-22.11.49:065][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.05-22.11.49:124][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/Shane/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.05-22.11.49:124][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Shane/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.05-22.11.49:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.05-22.11.49:124][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.05-22.11.49:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.05-22.11.49:124][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.05-22.11.49:141][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.05-22.11.49:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.05-22.11.49:141][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.05-22.11.49:142][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shane/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.05-22.11.49:143][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.05-22.11.49:143][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.05-22.11.49:199][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.05-22.11.49:219][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.05-22.11.49:252][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.10.05-22.11.49:513][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.05-22.11.49:721][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.05-22.11.49:721][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.05-22.11.49:721][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.05-22.11.49:721][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.05-22.11.49:721][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.05-22.11.49:767][  0]LogNetVersion: Capstone 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 9765729)
+[2020.10.05-22.11.50:915][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000018D1416A980), frame # 0
+[2020.10.05-22.11.50:915][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018D14012AC0), frame # 0
+[2020.10.05-22.11.50:916][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018D14055C00), frame # 0
+[2020.10.05-22.11.51:005][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.070914 seconds
+[2020.10.05-22.11.51:010][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.05-22.11.51:010][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.05-22.11.51:010][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.05-22.11.51:726][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.05-22.11.51:731][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.05-22.11.52:187][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.10.05-22.11.52:188][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2020.10.05-22.11.52:188][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2020.10.05-22.11.52:238][  0]SourceControl: Source control is disabled
+[2020.10.05-22.11.52:238][  0]SourceControl: Source control is disabled
+[2020.10.05-22.11.52:241][  0]SourceControl: Source control is disabled
+[2020.10.05-22.11.52:244][  0]SourceControl: Source control is disabled
+[2020.10.05-22.11.52:252][  0]SourceControl: Source control is disabled
+[2020.10.05-22.11.52:533][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.05-22.11.52:553][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.05-22.11.52:553][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.05-22.11.52:634][  0]LogOcInput: OculusInput pre-init called
+[2020.10.05-22.11.52:645][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.05-22.11.52:645][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.05-22.11.52:730][  0]LogEngine: Initializing Engine...
+[2020.10.05-22.11.52:731][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.05-22.11.52:731][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.05-22.11.52:732][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.05-22.11.53:051][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.05-22.11.53:059][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.05-22.11.53:059][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018D19975A00), frame # 0
+[2020.10.05-22.11.53:059][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018D199AAD40), frame # 0
+[2020.10.05-22.11.53:064][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.05-22.11.53:064][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.05-22.11.53:064][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.05-22.11.53:064][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.05-22.11.53:064][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.05-22.11.53:064][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.05-22.11.53:064][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.05-22.11.53:064][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.05-22.11.53:065][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.05-22.11.53:065][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.05-22.11.53:082][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.05-22.11.53:082][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.05-22.11.54:256][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.05-22.11.54:257][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.05-22.11.54:281][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.05-22.11.54:282][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.05-22.11.54:283][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.05-22.11.54:283][  0]LogInit: FAudioDevice initialized.
+[2020.10.05-22.11.54:284][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.05-22.11.54:364][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/Shane/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.05-22.11.54:368][  0]LogInit: Texture streaming: Enabled
+[2020.10.05-22.11.54:384][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.05-22.11.54:384][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.05-22.11.54:386][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.05-22.11.54:456][  0]LogInit: Transaction tracking system initialized
+[2020.10.05-22.11.54:476][  0]BlueprintLog: New page: Editor Load
+[2020.10.05-22.11.54:552][  0]LocalizationService: Localization service is disabled
+[2020.10.05-22.11.54:988][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.05-22.11.54:988][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.05-22.11.55:155][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/' took 0.01s
+[2020.10.05-22.11.55:394][  0]SourceControl: Source control is disabled
+[2020.10.05-22.11.55:394][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.120
+[2020.10.05-22.11.55:394][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-22.11.55:394][  0]LightingResults: New page: Lighting Build
+[2020.10.05-22.11.55:395][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-22.11.55:395][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-22.11.55:395][  0]MapCheck: New page: Map Check
+[2020.10.05-22.11.55:395][  0]LightingResults: New page: Lighting Build
+[2020.10.05-22.11.55:405][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018D19975A00), frame # 0
+[2020.10.05-22.11.55:405][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018D199AAD40), frame # 0
+[2020.10.05-22.11.55:406][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.05-22.11.55:703][  0]LogBlueprint: Error: [Compiler BP_WeaponMaster] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2020.10.05-22.11.55:704][  0]LogBlueprint: Warning: [Compiler BP_WeaponMaster] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2020.10.05-22.11.56:172][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.05-22.11.56:172][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018D04647E00), frame # 0
+[2020.10.05-22.11.56:172][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018D0464FB00), frame # 0
+[2020.10.05-22.11.56:182][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-22.11.56:193][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.05-22.11.56:193][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-22.11.56:194][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2020.10.05-22.11.56:194][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.799
+[2020.10.05-22.11.56:197][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.923
+[2020.10.05-22.11.56:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.11.56:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.11.56:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.11.56:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.11.56:380][  0]LogCollectionManager: Loaded 0 collections in 0.002098 seconds
+[2020.10.05-22.11.56:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Collections/' took 0.00s
+[2020.10.05-22.11.56:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Developers/Shane/Collections/' took 0.00s
+[2020.10.05-22.11.56:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Collections/' took 0.00s
+[2020.10.05-22.11.56:394][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 3437 classes and 823 folders.
+[2020.10.05-22.11.56:397][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.05-22.11.56:694][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.10.05-22.11.56:698][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.10.05-22.11.56:860][  0]LogSlate: Took 0.007772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.05-22.11.56:867][  0]LogSlate: Took 0.004997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.05-22.11.56:877][  0]LogSlate: Took 0.005481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.05-22.11.57:006][  0]LogRenderer: Reallocating scene render targets to support 752x432 Format 10 NumSamples 1 (Frame:1).
+[2020.10.05-22.11.57:063][  0]LogSlate: Took 0.004712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.05-22.11.57:131][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.05-22.11.57:131][  0]LogLoad: (Engine Initialization) Total time: 19.86 seconds
+[2020.10.05-22.11.57:131][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.05-22.11.57:184][  0]LogAssetRegistry: Asset discovery search completed in 7.9329 seconds
+[2020.10.05-22.11.57:189][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.10.05-22.11.57:190][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.05-22.12.30:615][989]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.05-22.12.30:655][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.10.05-22.12.30:696][989]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap90F960CC4C1841C24A0DD48584776A91.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.05-22.12.30:895][989]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_BuiltDataACE4B0F14236C12C5E6A65BA6C382A4B.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.05-22.12.30:907][989]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-22.12.30:907][989]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.05-22.12.30:907][989]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.05-22.15.33:288][359]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.10.05-22.15.33:288][359]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.10.05-22.15.33:348][359]LogSlate: Took 0.014911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.05-22.16.12:009][559]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.10.05-22.16.26:773][434]Running C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject" -game -rocket -progress
+[2020.10.05-22.16.27:282][434]Discovering modules, targets and source code for project...
+[2020.10.05-22.16.29:496][434]Binding IntelliSense data...
+[2020.10.05-22.16.39:280][434]Binding IntelliSense data... 100%
+[2020.10.05-22.16.39:280][434]Writing project files...
+[2020.10.05-22.16.44:514][434]Writing project files... 100%
+[2020.10.05-22.16.44:660][434]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2020.10.05-22.16.44:660][434]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.10.05-22.16.44:672][434]Candidate modules for hot reload:
+[2020.10.05-22.16.44:672][434]  Capstone
+[2020.10.05-22.16.44:672][434]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Capstone,5114 CapstoneEditor Win64 Development -Project="C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject" "C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject"  -IgnoreJunk]
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: New page: Compilation - Oct 5, 2020, 2:17:28 PM
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone).
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: Creating makefile for CapstoneEditor (no existing makefile)
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: Parsing headers for CapstoneEditor
+[2020.10.05-22.17.28:364][434]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Capstone.uproject" "C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\CapstoneEditor\Development\CapstoneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Shane\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: Reflection code generated for CapstoneEditor in 35.6421272 seconds
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: Building CapstoneEditor...
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: Distributing 6 actions to XGE
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: License is invalid:
+[2020.10.05-22.17.28:364][434]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.10.05-22.17.28:364][434]CompilerResultsLog:     This build will run in standalone mode.
+[2020.10.05-22.17.28:364][434]CompilerResultsLog: 
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: Capstone.init.gen.cpp (0:00.64 at +0:00)
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: Bullet_Base.gen.cpp (0:00.95 at +0:00)
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: Bullet_Base.cpp (0:00.62 at +0:01)
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: UE4Editor-Capstone-5114.dll (0:00.75 at +0:02)
+[2020.10.05-22.17.28:365][434]CompilerResultsLog:    Creating library C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-5114.suppressed.lib and object C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-5114.suppressed.exp
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: UE4Editor-Capstone-5114.lib (0:00.15 at +0:03)
+[2020.10.05-22.17.28:365][434]CompilerResultsLog:    Creating library C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-5114.lib and object C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-5114.exp
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: CapstoneEditor.target (0:00.25 at +0:03)
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: 
+[2020.10.05-22.17.28:365][434]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: 
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: 1 build system warning(s):
+[2020.10.05-22.17.28:365][434]CompilerResultsLog:    - License is invalid
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: 
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: Total time in XGE executor: 4.89 seconds
+[2020.10.05-22.17.28:365][434]CompilerResultsLog: Total execution time: 43.48 seconds
+[2020.10.05-22.17.28:365][434]LogMainFrame: MainFrame: Module compiling took 43.704 seconds
+[2020.10.05-22.17.28:397][434]LogClass: Could not find existing class Bullet_Base in package /Script/Capstone for HotReload, assuming new class
+[2020.10.05-22.17.28:429][434]LogContentBrowser: Native class hierarchy updated for 'Capstone' in 0.0006 seconds. Added 11 classes and 2 folders.
+[2020.10.05-22.17.28:430][434]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.10.05-22.17.28:525][434]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 3438 classes and 823 folders.
+[2020.10.05-22.17.28:525][434]Display: HotReload took 43.9s.
+[2020.10.05-22.17.28:539][434]Warning: HotReload operation took 43.9s.
+[2020.10.05-22.17.29:107][434]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.10.05-22.17.29:120][434]LogHotReload: New module detected: UE4Editor-Capstone-5114.dll
+[2020.10.05-22.17.29:219][435]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.05-22.17.29:260][435]LogContentBrowser: Native class hierarchy updated for 'Capstone' in 0.0008 seconds. Added 11 classes and 2 folders.
+[2020.10.05-22.17.29:262][435]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.10.05-22.17.29:287][435]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 3438 classes and 823 folders.
+[2020.10.05-22.17.29:300][435]Display: HotReload took  0.1s.
+[2020.10.05-22.17.55:706][964]LogEditor: Attempting to add actor of class 'Bullet_Base' to level at -1030.00,610.00,130.00
+[2020.10.05-22.17.56:058][985]LogEditor: Attempting to add actor of class 'Bullet_Base' to level at -1000.00,280.00,130.00
+[2020.10.05-22.23.33:707][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.10.05-22.23.33:764][401]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_Auto1976A39634D8C6C881F7F3F95132F77B2.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.10.05-22.23.33:774][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.079
+[2020.10.05-22.23.33:774][401]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.079
+[2020.10.05-22.31.08:080][577]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CollisionActor.BP_CollisionActor
+[2020.10.05-22.31.08:771][577]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.10.05-22.31.11:652][675]LogSlate: Window 'BP_CollisionActor' being destroyed
+[2020.10.05-22.31.11:675][675]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-22.31.11:676][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-22.31.21:385][243]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Projectiles/BP_BulletMaster.BP_BulletMaster
+[2020.10.05-22.31.37:240][126]LogSlate: Window 'BP_BulletMaster' being destroyed
+[2020.10.05-22.31.38:555][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.10.05-22.31.38:593][201]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap179D5D324C643EF55CA8D19FDBAF1B23.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.05-22.31.38:753][201]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_BuiltData192E650A49F5088547E1F0A3C49A2C9B.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.05-22.31.38:765][201]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-22.31.38:765][201]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.05-22.31.38:765][201]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.05-22.31.49:253][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.10.05-22.31.49:285][821]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap2BDF5CD148447949168A74BBD139D147.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.05-22.31.49:446][821]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_BuiltData0F608F444A8928B1C47F8FB457A53796.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.05-22.31.49:460][821]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-22.31.49:460][821]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.05-22.31.49:460][821]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.05-22.31.52:047][968]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.05-22.31.52:068][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.05-22.31.52:068][968]BlueprintLog: Warning: Blueprint failed to compile:  BP_WeaponMaster
+[2020.10.05-22.31.52:075][968]LogCustomDialog: Dialog displayed:
+[2020.10.05-22.31.55:540][968]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.10.05-22.31.55:561][968]LogSlate: Took 0.009634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.05-22.31.58:035][116]BlueprintLog: New page: Compile BP_BulletMaster
+[2020.10.05-22.31.58:078][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.10.05-22.32.00:280][243]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletMaster2087E63E4DAFC1F833338DBC026683DD.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_BulletMaster.uasset'
+[2020.10.05-22.32.00:296][243]AssetCheck: New page: Asset Save: BP_BulletMaster
+[2020.10.05-22.32.00:296][243]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_BulletMaster.BP_BulletMaster
+[2020.10.05-22.32.01:629][317]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.10.05-22.32.01:657][317]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap4FCC77CE4FA42E149D5648BF3EB7C193.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.05-22.32.01:816][317]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_BuiltDataA5E646394271BED0B47162B4D668D472.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.05-22.32.01:834][317]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-22.32.01:834][317]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.05-22.32.01:834][317]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.05-22.32.02:758][372]LogSlate: Took 0.008740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.05-22.32.12:401][933]Candidate modules for hot reload:
+[2020.10.05-22.32.12:401][933]  Capstone
+[2020.10.05-22.32.12:402][933]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Capstone,4080 CapstoneEditor Win64 Development -Project="C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject" "C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject"  -IgnoreJunk]
+[2020.10.05-22.32.12:406][933]Warning: Starting HotReload took  0.1s.
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog: New page: Compilation - Oct 5, 2020, 2:32:22 PM
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone).
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog: Parsing headers for CapstoneEditor
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Capstone.uproject" "C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\CapstoneEditor\Development\CapstoneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Shane\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog: Reflection code generated for CapstoneEditor in 6.4739372 seconds
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog: Building CapstoneEditor...
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog: Distributing 6 actions to XGE
+[2020.10.05-22.32.22:859][ 86]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: License is invalid:
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog:     This build will run in standalone mode.
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: 
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Capstone.init.gen.cpp (0:00.57 at +0:00)
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Bullet_Base.gen.cpp (0:00.90 at +0:00)
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Bullet_Base.cpp (0:00.81 at +0:01)
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(15) : error C2672: 'UObject::CreateDefaultSubobject': no matching overloaded function found
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(15) : error C2780: 'TReturnType *UObject::CreateDefaultSubobject(FName,bool)': expects 2 arguments - 0 provided
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h(119): note: see declaration of 'UObject::CreateDefaultSubobject'
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(21) : error C2039: 'projMovement': is not a member of 'USphereComponent'
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h(17): note: see declaration of 'USphereComponent'
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(21) : error C2672: 'UObject::CreateDefaultSubobject': no matching overloaded function found
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(21) : error C2780: 'TReturnType *UObject::CreateDefaultSubobject(FName,bool)': expects 2 arguments - 0 provided
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h(119): note: see declaration of 'UObject::CreateDefaultSubobject'
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(24) : error C2672: 'UObject::CreateDefaultSubobject': no matching overloaded function found
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(24) : error C2780: 'TReturnType *UObject::CreateDefaultSubobject(FName,bool)': expects 2 arguments - 0 provided
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h(119): note: see declaration of 'UObject::CreateDefaultSubobject'
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: 
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.25\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: 
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: 
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog: 1 build system warning(s):
+[2020.10.05-22.32.22:860][ 86]CompilerResultsLog:    - License is invalid
+[2020.10.05-22.32.22:861][ 86]CompilerResultsLog: 
+[2020.10.05-22.32.22:861][ 86]LogMainFrame: MainFrame: Module compiling took 10.475 seconds
+[2020.10.05-22.32.22:861][ 86]Warning: HotReload failed, recompile failed
+[2020.10.05-22.35.08:364][766]Candidate modules for hot reload:
+[2020.10.05-22.35.08:364][766]  Capstone
+[2020.10.05-22.35.08:364][766]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Capstone,9038 CapstoneEditor Win64 Development -Project="C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject" "C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject"  -IgnoreJunk]
+[2020.10.05-22.35.08:369][766]Warning: Starting HotReload took  0.0s.
+[2020.10.05-22.35.10:147][857]CompilerResultsLog: New page: Compilation - Oct 5, 2020, 2:35:10 PM
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone).
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: Building CapstoneEditor...
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: Distributing 4 actions to XGE
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: License is invalid:
+[2020.10.05-22.35.10:148][857]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.10.05-22.35.10:148][857]CompilerResultsLog:     This build will run in standalone mode.
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: 
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: Bullet_Base.cpp (0:00.42 at +0:00)
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(15) : error C2672: 'UObject::CreateDefaultSubobject': no matching overloaded function found
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(15) : error C2780: 'TReturnType *UObject::CreateDefaultSubobject(FName,bool)': expects 2 arguments - 0 provided
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h(119): note: see declaration of 'UObject::CreateDefaultSubobject'
+[2020.10.05-22.35.10:148][857]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(21) : error C2672: 'UObject::CreateDefaultSubobject': no matching overloaded function found
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(21) : error C2780: 'TReturnType *UObject::CreateDefaultSubobject(FName,bool)': expects 2 arguments - 0 provided
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h(119): note: see declaration of 'UObject::CreateDefaultSubobject'
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(24) : error C2672: 'UObject::CreateDefaultSubobject': no matching overloaded function found
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(24) : error C2780: 'TReturnType *UObject::CreateDefaultSubobject(FName,bool)': expects 2 arguments - 0 provided
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h(119): note: see declaration of 'UObject::CreateDefaultSubobject'
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(25): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: 
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.25\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: 
+[2020.10.05-22.35.10:149][857]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: 
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: 1 build system warning(s):
+[2020.10.05-22.35.10:149][857]CompilerResultsLog:    - License is invalid
+[2020.10.05-22.35.10:149][857]CompilerResultsLog: 
+[2020.10.05-22.35.10:149][857]LogMainFrame: MainFrame: Module compiling took 1.796 seconds
+[2020.10.05-22.35.10:149][857]Warning: HotReload failed, recompile failed
+[2020.10.05-22.36.13:335][246]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PlayerCharacter.BP_PlayerCharacter
+[2020.10.05-22.37.03:732][220]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2020.10.05-22.37.31:611][860]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.05-22.37.51:551][ 36]BlueprintLog: New page: Compile BP_WeaponMaster
+[2020.10.05-22.37.51:614][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.10.05-22.37.52:369][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_WeaponMaster" FILE="../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2020.10.05-22.37.52:398][ 76]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_WeaponMaster0680E6474071B4FD90900E9016E6C002.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/BP_WeaponMaster.uasset'
+[2020.10.05-22.37.52:410][ 76]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2020.10.05-22.37.52:410][ 76]LogContentValidation: Display: Validating Blueprint /Game/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2020.10.05-22.37.54:540][199]Candidate modules for hot reload:
+[2020.10.05-22.37.54:540][199]  Capstone
+[2020.10.05-22.37.54:540][199]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Capstone,8076 CapstoneEditor Win64 Development -Project="C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject" "C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject"  -IgnoreJunk]
+[2020.10.05-22.37.54:544][199]Warning: Starting HotReload took  0.0s.
+[2020.10.05-22.37.58:423][414]CompilerResultsLog: New page: Compilation - Oct 5, 2020, 2:37:58 PM
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone).
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: Building CapstoneEditor...
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: Distributing 4 actions to XGE
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: License is invalid:
+[2020.10.05-22.37.58:424][414]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.10.05-22.37.58:424][414]CompilerResultsLog:     This build will run in standalone mode.
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: 
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: Bullet_Base.cpp (0:01.26 at +0:00)
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(25): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: UE4Editor-Capstone-8076.dll (0:00.89 at +0:01)
+[2020.10.05-22.37.58:424][414]CompilerResultsLog:    Creating library C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-8076.suppressed.lib and object C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-8076.suppressed.exp
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: UE4Editor-Capstone-8076.lib (0:00.15 at +0:02)
+[2020.10.05-22.37.58:424][414]CompilerResultsLog:    Creating library C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-8076.lib and object C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-8076.exp
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: CapstoneEditor.target (0:00.25 at +0:02)
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: 
+[2020.10.05-22.37.58:424][414]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: 
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: 1 build system warning(s):
+[2020.10.05-22.37.58:424][414]CompilerResultsLog:    - License is invalid
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: 
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: Total time in XGE executor: 2.77 seconds
+[2020.10.05-22.37.58:424][414]CompilerResultsLog: Total execution time: 3.75 seconds
+[2020.10.05-22.37.58:424][414]LogMainFrame: MainFrame: Module compiling took 3.894 seconds
+[2020.10.05-22.37.58:455][414]LogClass: Could not find existing class Bullet_Base in package /Script/Capstone for HotReload, assuming new class
+[2020.10.05-22.37.58:474][414]LogHotReload: Re-instancing Bullet_Base after hot-reload.
+[2020.10.05-22.37.58:516][414]LogContentBrowser: Native class hierarchy updated for 'Capstone' in 0.0005 seconds. Added 11 classes and 2 folders.
+[2020.10.05-22.37.58:519][414]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.10.05-22.37.58:613][414]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 3438 classes and 823 folders.
+[2020.10.05-22.37.58:613][414]Display: HotReload took  4.1s.
+[2020.10.05-22.38.03:441][677]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.05-22.38.03:463][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.05-22.38.03:464][677]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 5, 2020, 2:38:03 PM)
+[2020.10.05-22.38.03:465][677]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.05-22.38.03:467][677]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.05-22.38.03:467][677]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.05-22.38.03:483][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016226s)
+[2020.10.05-22.38.03:485][677]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.05-22.38.03:485][677]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018DB76BBE00), frame # 23677
+[2020.10.05-22.38.03:485][677]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018DB7706980), frame # 23677
+[2020.10.05-22.38.03:485][677]LogPlayLevel: PIE: World Init took: (0.002141s)
+[2020.10.05-22.38.03:485][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018598s)
+[2020.10.05-22.38.03:548][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.10.05-22.38.03:549][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.05-22.38.03:549][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.05-22.38.03:549][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.05-22.38.03:549][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.05-22.38.03:549][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.05-22.38.03:549][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.05-22.38.03:549][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.05-22.38.03:549][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.05-22.38.03:550][677]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.05-22.38.03:550][677]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.05-22.38.03:555][677]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.05-22.38.03:555][677]LogAudioMixer: Display: 1: FrontRight
+[2020.10.05-22.38.03:652][677]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.05-22.38.03:652][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.05-22.38.03:652][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.05-22.38.03:652][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.05-22.38.03:653][677]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.05-22.38.03:669][677]LogInit: FAudioDevice initialized.
+[2020.10.05-22.38.03:721][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.38.03:721][677]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.10.05-22.38.03:724][677]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.05-18.38.03
+[2020.10.05-22.38.03:725][677]LogWorld: Bringing up level for play took: 0.002237
+[2020.10.05-22.38.03:725][677]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.10.05-22.38.03:764][677]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.10.05-22.38.03:769][677]PIE: Server logged in
+[2020.10.05-22.38.03:770][677]PIE: Play in editor total start time 0.312 seconds.
+[2020.10.05-22.38.03:820][678]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.10.05-22.38.22:128][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.38.22:128][752]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.05-22.38.22:128][752]LogSlate: Window 'Capstone Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.05-22.38.22:132][752]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-22.38.22:133][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-22.38.22:146][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.05-22.38.22:151][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-22.38.22:260][752]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018DB76BBE00), frame # 24752
+[2020.10.05-22.38.22:260][752]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018DB7706980), frame # 24752
+[2020.10.05-22.38.22:264][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.10.05-22.38.22:301][753]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.05-22.38.24:517][886]LogEditorViewport: Clicking on Actor (LMB): BP_BulletMaster_C (BP_BulletMaster)
+[2020.10.05-22.38.25:963][972]Cmd: DELETE
+[2020.10.05-22.38.25:963][972]Cmd: ACTOR DELETE
+[2020.10.05-22.38.25:964][972]LogEditorActor: Deleted Actor: BP_BulletMaster_C
+[2020.10.05-22.38.25:995][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.10.05-22.38.25:996][972]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.10.05-22.38.43:390][986]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletMaster41376ED745A30A742BF250BCF2953B52.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_BulletMaster.uasset'
+[2020.10.05-22.38.43:403][986]AssetCheck: New page: Asset Save: BP_BulletMaster
+[2020.10.05-22.38.43:403][986]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_BulletMaster.BP_BulletMaster
+[2020.10.05-22.39.29:813][747]BlueprintLog: New page: Compile BP_BulletMaster
+[2020.10.05-22.39.29:870][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.10.05-22.39.30:514][779]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletMaster23D67B0F412A5C0ED792AE822F3EA23A.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_BulletMaster.uasset'
+[2020.10.05-22.39.30:528][779]AssetCheck: New page: Asset Save: BP_BulletMaster
+[2020.10.05-22.39.30:528][779]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_BulletMaster.BP_BulletMaster
+[2020.10.05-22.39.50:495][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.10.05-22.39.50:543][959]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMapD067252F42E369ACA66B158916008D03.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.05-22.39.50:718][959]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_BuiltDataABE3099E40EEB5CD755D988D5F7CB272.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.05-22.39.50:738][959]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-22.39.50:738][959]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.05-22.39.50:738][959]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.05-22.39.52:619][ 66]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.05-22.39.52:635][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.05-22.39.52:635][ 66]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 5, 2020, 2:39:52 PM)
+[2020.10.05-22.39.52:635][ 66]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.05-22.39.52:646][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010865s)
+[2020.10.05-22.39.52:648][ 66]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.05-22.39.52:648][ 66]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018D4FD03400), frame # 30066
+[2020.10.05-22.39.52:648][ 66]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018D9EE07600), frame # 30066
+[2020.10.05-22.39.52:648][ 66]LogPlayLevel: PIE: World Init took: (0.002506s)
+[2020.10.05-22.39.52:648][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013586s)
+[2020.10.05-22.39.52:684][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.10.05-22.39.52:685][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.05-22.39.52:685][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.05-22.39.52:685][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.05-22.39.52:685][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.05-22.39.52:685][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.05-22.39.52:685][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.05-22.39.52:685][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.05-22.39.52:685][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.05-22.39.52:686][ 66]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.05-22.39.52:686][ 66]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.05-22.39.52:690][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.05-22.39.52:690][ 66]LogAudioMixer: Display: 1: FrontRight
+[2020.10.05-22.39.52:781][ 66]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.05-22.39.52:781][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.05-22.39.52:781][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.05-22.39.52:781][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.05-22.39.52:782][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.05-22.39.52:798][ 66]LogInit: FAudioDevice initialized.
+[2020.10.05-22.39.52:850][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.39.52:850][ 66]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.10.05-22.39.52:852][ 66]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.05-18.39.52
+[2020.10.05-22.39.52:852][ 66]LogWorld: Bringing up level for play took: 0.001206
+[2020.10.05-22.39.52:852][ 66]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.10.05-22.39.52:861][ 66]PIE: Server logged in
+[2020.10.05-22.39.52:862][ 66]PIE: Play in editor total start time 0.228 seconds.
+[2020.10.05-22.40.16:548][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.40.16:548][482]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.05-22.40.16:549][482]LogSlate: Window 'Capstone Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.05-22.40.16:554][482]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-22.40.16:556][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-22.40.16:562][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.05-22.40.16:568][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-22.40.16:626][482]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018D9EE07600), frame # 31482
+[2020.10.05-22.40.16:626][482]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018D4FD03400), frame # 31482
+[2020.10.05-22.40.16:629][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.10.05-22.40.16:666][483]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.10.05-22.40.27:074][ 91]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletMaster5F9AD9EC4420AC7561EA4386B6F1D0D6.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_BulletMaster.uasset'
+[2020.10.05-22.40.27:091][ 91]AssetCheck: New page: Asset Save: BP_BulletMaster
+[2020.10.05-22.40.27:091][ 91]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_BulletMaster.BP_BulletMaster
+[2020.10.05-22.40.28:081][151]BlueprintLog: New page: Compile BP_BulletMaster
+[2020.10.05-22.40.28:129][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.10.05-22.40.28:605][173]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletMaster2C23A3F84C4853B655C53D97DF12DF6C.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_BulletMaster.uasset'
+[2020.10.05-22.40.28:619][173]AssetCheck: New page: Asset Save: BP_BulletMaster
+[2020.10.05-22.40.28:619][173]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_BulletMaster.BP_BulletMaster
+[2020.10.05-22.40.30:754][296]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.05-22.40.30:770][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.05-22.40.30:770][296]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 5, 2020, 2:40:30 PM)
+[2020.10.05-22.40.30:770][296]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.05-22.40.30:784][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013685s)
+[2020.10.05-22.40.30:786][296]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.05-22.40.30:786][296]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018D9E890600), frame # 32296
+[2020.10.05-22.40.30:786][296]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018DB5ACA0C0), frame # 32296
+[2020.10.05-22.40.30:786][296]LogPlayLevel: PIE: World Init took: (0.002301s)
+[2020.10.05-22.40.30:786][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016234s)
+[2020.10.05-22.40.30:821][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.10.05-22.40.30:821][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.05-22.40.30:821][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.05-22.40.30:821][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.05-22.40.30:822][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.05-22.40.30:822][296]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.05-22.40.30:822][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.05-22.40.30:822][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.05-22.40.30:822][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.05-22.40.30:822][296]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.05-22.40.30:822][296]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.05-22.40.30:827][296]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.05-22.40.30:827][296]LogAudioMixer: Display: 1: FrontRight
+[2020.10.05-22.40.30:917][296]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.05-22.40.30:917][296]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.05-22.40.30:917][296]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.05-22.40.30:917][296]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.05-22.40.30:917][296]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.05-22.40.30:934][296]LogInit: FAudioDevice initialized.
+[2020.10.05-22.40.30:987][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.40.30:987][296]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.10.05-22.40.30:989][296]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.05-18.40.30
+[2020.10.05-22.40.30:989][296]LogWorld: Bringing up level for play took: 0.001566
+[2020.10.05-22.40.30:990][296]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.10.05-22.40.30:999][296]PIE: Server logged in
+[2020.10.05-22.40.31:001][296]PIE: Play in editor total start time 0.231 seconds.
+[2020.10.05-22.40.37:328][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-22.40.37:328][672]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.05-22.40.37:328][672]LogSlate: Window 'Capstone Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.05-22.40.37:332][672]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-22.40.37:332][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-22.40.37:344][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.05-22.40.37:348][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-22.40.37:403][672]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018DB5ACA0C0), frame # 32672
+[2020.10.05-22.40.37:403][672]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018D9E890600), frame # 32672
+[2020.10.05-22.40.37:407][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.10.05-22.40.37:443][673]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.10.06-01.55.50:833][385]Candidate modules for hot reload:
+[2020.10.06-01.55.50:833][385]  Capstone
+[2020.10.06-01.55.50:834][385]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Capstone,9235 CapstoneEditor Win64 Development -Project="C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject" "C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject"  -IgnoreJunk]
+[2020.10.06-01.55.50:839][385]Warning: Starting HotReload took  0.0s.
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: New page: Compilation - Oct 5, 2020, 5:56:57 PM
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone).
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: Creating makefile for CapstoneEditor (no existing makefile)
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: Parsing headers for CapstoneEditor
+[2020.10.06-01.56.57:998][153]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Capstone.uproject" "C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\CapstoneEditor\Development\CapstoneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Shane\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: Reflection code generated for CapstoneEditor in 7.2376808 seconds
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: Building CapstoneEditor...
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: Distributing 32 actions to XGE
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: License is invalid:
+[2020.10.06-01.56.57:998][153]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.10.06-01.56.57:998][153]CompilerResultsLog:     This build will run in standalone mode.
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: 
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: SharedPCH.Engine.ShadowErrors.cpp (0:34.81 at +0:00)
+[2020.10.06-01.56.57:998][153]CompilerResultsLog: AIBrain.cpp (0:01.42 at +0:34)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: AICharacter.cpp (0:00.70 at +0:36)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: AITest.cpp (0:00.62 at +0:36)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: ArriveAlgorithm.cpp (0:00.53 at +0:37)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Obj_Base.cpp (0:00.76 at +0:38)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Capstone.cpp (0:00.48 at +0:38)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: CapstoneCharacter.cpp (0:01.37 at +0:39)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: CapstoneGameMode.cpp (0:00.85 at +0:40)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: MyAI.cpp (0:00.65 at +0:41)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: MyAICharacter.cpp (0:00.78 at +0:42)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: NetworkedActor.cpp (0:00.70 at +0:43)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\NetworkedActor.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: NetworkedObjTest.cpp (0:00.59 at +0:43)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: WanderAlgorithm.cpp (0:00.56 at +0:44)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Bullet_Base.cpp (0:00.43 at +0:44)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Error: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(23) : error C2064: term does not evaluate to a function taking 1 arguments
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(27): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: 
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Error executing C:\Program Files\Epic Games\UE_4.25\Engine\Build\Windows\cl-filter\cl-filter.exe (tool returned code: 2)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: MyAI.gen.cpp (0:00.78 at +0:45)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: AIBrain.gen.cpp (0:01.57 at +0:46)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: AICharacter.gen.cpp (0:00.96 at +0:47)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: AITest.gen.cpp (0:00.81 at +0:48)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Bullet_Base.gen.cpp (0:00.76 at +0:49)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Capstone.init.gen.cpp (0:00.67 at +0:50)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: CapstoneCharacter.gen.cpp (0:00.87 at +0:50)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: CapstoneGameMode.gen.cpp (0:00.93 at +0:51)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: SteeringOutput.cpp (0:00.51 at +0:52)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: MyAICharacter.gen.cpp (0:00.79 at +0:53)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: NetworkedActor.gen.cpp (0:00.73 at +0:54)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: NetworkedObjTest.gen.cpp (0:00.78 at +0:54)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Obj_Base.gen.cpp (0:00.79 at +0:55)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: Default.rc2 (0:00.20 at +0:56)
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: 
+[2020.10.06-01.56.57:999][153]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: 
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: 1 build system warning(s):
+[2020.10.06-01.56.57:999][153]CompilerResultsLog:    - License is invalid
+[2020.10.06-01.56.57:999][153]CompilerResultsLog: 
+[2020.10.06-01.56.57:999][153]LogMainFrame: MainFrame: Module compiling took 67.180 seconds
+[2020.10.06-01.56.58:000][153]Warning: HotReload failed, recompile failed
+[2020.10.06-01.57.46:142][480]Candidate modules for hot reload:
+[2020.10.06-01.57.46:142][480]  Capstone
+[2020.10.06-01.57.46:142][480]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Capstone,4922 CapstoneEditor Win64 Development -Project="C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject" "C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject"  -IgnoreJunk]
+[2020.10.06-01.57.46:146][480]Warning: Starting HotReload took  0.0s.
+[2020.10.06-01.58.54:205][541]CompilerResultsLog: New page: Compilation - Oct 5, 2020, 5:58:54 PM
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone).
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: Creating makefile for CapstoneEditor (no existing makefile)
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: Parsing headers for CapstoneEditor
+[2020.10.06-01.58.54:206][541]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Capstone.uproject" "C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\CapstoneEditor\Development\CapstoneEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Shane\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: Reflection code generated for CapstoneEditor in 7.1469153 seconds
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: Building CapstoneEditor...
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: Distributing 32 actions to XGE
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: License is invalid:
+[2020.10.06-01.58.54:206][541]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.10.06-01.58.54:206][541]CompilerResultsLog:     This build will run in standalone mode.
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: 
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: SharedPCH.Engine.ShadowErrors.cpp (0:34.95 at +0:00)
+[2020.10.06-01.58.54:206][541]CompilerResultsLog: AIBrain.cpp (0:01.42 at +0:34)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: AICharacter.cpp (0:00.71 at +0:36)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: AITest.cpp (0:00.57 at +0:37)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: ArriveAlgorithm.cpp (0:00.51 at +0:37)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: Obj_Base.cpp (0:00.73 at +0:38)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: Capstone.cpp (0:00.48 at +0:38)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: CapstoneCharacter.cpp (0:01.39 at +0:39)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: CapstoneGameMode.cpp (0:00.84 at +0:40)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: MyAI.cpp (0:00.67 at +0:41)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: MyAICharacter.cpp (0:00.71 at +0:42)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: NetworkedActor.cpp (0:00.65 at +0:43)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\NetworkedActor.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: NetworkedObjTest.cpp (0:00.57 at +0:43)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: WanderAlgorithm.cpp (0:00.48 at +0:44)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: Bullet_Base.cpp (0:00.70 at +0:44)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp(27): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: MyAI.gen.cpp (0:00.81 at +0:45)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: AIBrain.gen.cpp (0:01.54 at +0:46)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: AICharacter.gen.cpp (0:00.90 at +0:47)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: AITest.gen.cpp (0:00.78 at +0:48)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: Bullet_Base.gen.cpp (0:00.76 at +0:49)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: Capstone.init.gen.cpp (0:00.64 at +0:50)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: CapstoneCharacter.gen.cpp (0:00.89 at +0:50)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: CapstoneGameMode.gen.cpp (0:00.89 at +0:51)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: SteeringOutput.cpp (0:00.48 at +0:52)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: MyAICharacter.gen.cpp (0:00.87 at +0:53)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: NetworkedActor.gen.cpp (0:00.78 at +0:54)
+[2020.10.06-01.58.54:207][541]CompilerResultsLog: NetworkedObjTest.gen.cpp (0:00.78 at +0:54)
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: Obj_Base.gen.cpp (0:00.81 at +0:55)
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: Default.rc2 (0:00.12 at +0:56)
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: UE4Editor-Capstone-4922.dll (0:00.70 at +0:56)
+[2020.10.06-01.58.54:208][541]CompilerResultsLog:    Creating library C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-4922.suppressed.lib and object C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-4922.suppressed.exp
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: UE4Editor-Capstone-4922.lib (0:00.14 at +0:57)
+[2020.10.06-01.58.54:208][541]CompilerResultsLog:    Creating library C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-4922.lib and object C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-4922.exp
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: CapstoneEditor.target (0:00.23 at +0:57)
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: 
+[2020.10.06-01.58.54:208][541]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: 
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: 1 build system warning(s):
+[2020.10.06-01.58.54:208][541]CompilerResultsLog:    - License is invalid
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: 
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: Total time in XGE executor: 57.86 seconds
+[2020.10.06-01.58.54:208][541]CompilerResultsLog: Total execution time: 67.95 seconds
+[2020.10.06-01.58.54:208][541]LogMainFrame: MainFrame: Module compiling took 68.077 seconds
+[2020.10.06-01.58.54:243][541]LogClass: Could not find existing class Bullet_Base in package /Script/Capstone for HotReload, assuming new class
+[2020.10.06-01.58.54:269][541]LogHotReload: Re-instancing Bullet_Base after hot-reload.
+[2020.10.06-01.58.54:313][541]LogContentBrowser: Native class hierarchy updated for 'Capstone' in 0.0009 seconds. Added 11 classes and 2 folders.
+[2020.10.06-01.58.54:317][541]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.10.06-01.58.54:452][541]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 3438 classes and 823 folders.
+[2020.10.06-01.58.54:452][541]Display: HotReload took 68.3s.
+[2020.10.06-01.59.33:364][698]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.06-01.59.41:113][152]BlueprintLog: New page: Compile BP_WeaponMaster
+[2020.10.06-01.59.41:251][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.10.06-01.59.41:665][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_WeaponMaster" FILE="../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2020.10.06-01.59.41:698][172]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_WeaponMasterD3A8E47646E8AC6637F8CE838E7CC998.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/BP_WeaponMaster.uasset'
+[2020.10.06-01.59.41:714][172]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2020.10.06-01.59.41:715][172]LogContentValidation: Display: Validating Blueprint /Game/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2020.10.06-01.59.44:935][358]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.06-01.59.44:955][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-01.59.44:956][358]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 5, 2020, 5:59:44 PM)
+[2020.10.06-01.59.44:956][358]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.06-01.59.44:967][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010812s)
+[2020.10.06-01.59.44:968][358]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.06-01.59.44:969][358]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018DD66D1400), frame # 82358
+[2020.10.06-01.59.44:969][358]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018D884F51C0), frame # 82358
+[2020.10.06-01.59.44:969][358]LogPlayLevel: PIE: World Init took: (0.002313s)
+[2020.10.06-01.59.44:969][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013365s)
+[2020.10.06-01.59.45:036][358]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.10.06-01.59.45:037][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-01.59.45:037][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-01.59.45:037][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-01.59.45:037][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-01.59.45:037][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-01.59.45:037][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-01.59.45:037][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-01.59.45:037][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-01.59.45:037][358]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-01.59.45:037][358]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-01.59.45:043][358]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-01.59.45:043][358]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-01.59.45:137][358]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.06-01.59.45:137][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-01.59.45:137][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-01.59.45:137][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-01.59.45:138][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-01.59.45:154][358]LogInit: FAudioDevice initialized.
+[2020.10.06-01.59.45:202][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-01.59.45:202][358]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.10.06-01.59.45:205][358]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.05-21.59.45
+[2020.10.06-01.59.45:205][358]LogWorld: Bringing up level for play took: 0.001887
+[2020.10.06-01.59.45:205][358]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.10.06-01.59.45:213][358]PIE: Server logged in
+[2020.10.06-01.59.45:215][358]PIE: Play in editor total start time 0.264 seconds.
+[2020.10.06-02.00.01:923][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall8)
+[2020.10.06-02.00.24:244][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.00.24:244][574]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.06-02.00.24:245][574]LogSlate: Window 'Capstone Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.06-02.00.24:250][574]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-02.00.24:250][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.00.24:261][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-02.00.24:265][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.00.24:322][574]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018D884F51C0), frame # 84574
+[2020.10.06-02.00.24:322][574]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018DD66D1400), frame # 84574
+[2020.10.06-02.00.24:327][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.10.06-02.00.24:362][575]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.10.06-02.00.51:470][148]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.10.06-02.00.51:470][148]LogSlate: WidgetSwitcher ('None') active index changed to 0
+[2020.10.06-02.00.55:832][381]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.06-02.01.03:969][850]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.10.06-02.01.09:705][194]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.10.06-02.01.18:226][699]LogSlate: WidgetSwitcher ('None') active index changed to -1
+[2020.10.06-02.01.18:226][699]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.10.06-02.01.33:874][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.01.34:336][631]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2020.10.06-02.01.36:858][775]BlueprintLog: New page: Compile BP_Bullet
+[2020.10.06-02.01.36:907][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.10.06-02.01.37:224][790]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletEEBC85D84DEC99532DCF928B29653A6F.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_Bullet.uasset'
+[2020.10.06-02.01.37:242][790]AssetCheck: New page: Asset Save: BP_Bullet
+[2020.10.06-02.01.37:242][790]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.02.02:099][265]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_Bullet10691F564A2946D111763AB74A50E812.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_Bullet.uasset'
+[2020.10.06-02.02.02:115][265]AssetCheck: New page: Asset Save: BP_Bullet
+[2020.10.06-02.02.02:115][265]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.02.03:411][343]BlueprintLog: New page: Compile BP_Bullet
+[2020.10.06-02.02.03:465][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.10.06-02.02.16:567][110]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_Bullet91BC2EDE44ED3F3EE55B63A7C8963566.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_Bullet.uasset'
+[2020.10.06-02.02.16:588][110]AssetCheck: New page: Asset Save: BP_Bullet
+[2020.10.06-02.02.16:588][110]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.02.17:580][170]BlueprintLog: New page: Compile BP_Bullet
+[2020.10.06-02.02.17:636][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.06-02.02.18:060][192]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletE48554D54E5D5A9931B1F7AB1709B8C2.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_Bullet.uasset'
+[2020.10.06-02.02.18:078][192]AssetCheck: New page: Asset Save: BP_Bullet
+[2020.10.06-02.02.18:078][192]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.03.22:530][ 20]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletB65EAD67466C350E236D6D8BE7321A45.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_Bullet.uasset'
+[2020.10.06-02.03.22:549][ 20]AssetCheck: New page: Asset Save: BP_Bullet
+[2020.10.06-02.03.22:549][ 20]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.03.23:521][ 75]BlueprintLog: New page: Compile BP_Bullet
+[2020.10.06-02.03.23:610][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.10.06-02.03.24:153][103]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_BulletB3272D044CC112E515B0E9B6E81F7CC7.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_Bullet.uasset'
+[2020.10.06-02.03.24:168][103]AssetCheck: New page: Asset Save: BP_Bullet
+[2020.10.06-02.03.24:168][103]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.03.25:504][181]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_Bullet0FACFF8540D7A33B8027C093D9127D69.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_Bullet.uasset'
+[2020.10.06-02.03.25:518][181]AssetCheck: New page: Asset Save: BP_Bullet
+[2020.10.06-02.03.25:518][181]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.03.36:934][861]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.06-02.03.43:216][235]BlueprintLog: New page: Compile BP_WeaponMaster
+[2020.10.06-02.03.43:296][235]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2020.10.06-02.03.43:749][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_WeaponMaster" FILE="../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2020.10.06-02.03.43:775][256]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_WeaponMaster2F518AEE44A1269A6890A2947A61704C.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/BP_WeaponMaster.uasset'
+[2020.10.06-02.03.43:790][256]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2020.10.06-02.03.43:791][256]LogContentValidation: Display: Validating Blueprint /Game/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2020.10.06-02.03.46:937][439]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.06-02.03.46:954][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-02.03.46:954][439]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 5, 2020, 6:03:46 PM)
+[2020.10.06-02.03.46:954][439]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.06-02.03.46:968][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013611s)
+[2020.10.06-02.03.46:970][439]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.06-02.03.46:970][439]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018D88317E00), frame # 95439
+[2020.10.06-02.03.46:970][439]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018DD7686840), frame # 95439
+[2020.10.06-02.03.46:971][439]LogPlayLevel: PIE: World Init took: (0.002580s)
+[2020.10.06-02.03.46:971][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016453s)
+[2020.10.06-02.03.47:019][439]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.10.06-02.03.47:022][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-02.03.47:023][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-02.03.47:023][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-02.03.47:023][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-02.03.47:023][439]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-02.03.47:023][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-02.03.47:023][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-02.03.47:023][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-02.03.47:024][439]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-02.03.47:024][439]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-02.03.47:028][439]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-02.03.47:028][439]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-02.03.47:119][439]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.06-02.03.47:120][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-02.03.47:120][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-02.03.47:120][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-02.03.47:120][439]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-02.03.47:136][439]LogInit: FAudioDevice initialized.
+[2020.10.06-02.03.47:205][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.03.47:205][439]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.10.06-02.03.47:208][439]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.05-22.03.47
+[2020.10.06-02.03.47:208][439]LogWorld: Bringing up level for play took: 0.001975
+[2020.10.06-02.03.47:208][439]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.10.06-02.03.47:216][439]PIE: Server logged in
+[2020.10.06-02.03.47:218][439]PIE: Play in editor total start time 0.265 seconds.
+[2020.10.06-02.03.57:993][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.03.57:993][ 81]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.06-02.03.57:993][ 81]LogSlate: Window 'Capstone Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.06-02.03.57:997][ 81]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-02.03.57:998][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.03.58:008][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-02.03.58:017][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.03.58:089][ 81]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018DD7686840), frame # 96081
+[2020.10.06-02.03.58:089][ 81]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018D88317E00), frame # 96081
+[2020.10.06-02.03.58:092][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.10.06-02.03.58:126][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.10.06-02.04.00:083][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.10.06-02.04.00:120][194]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap83085C824DCCD1F0C14EAA84B7BB7A2C.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.06-02.04.00:293][194]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_BuiltData5E9297484669F72CE3D24988F22FD051.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.06-02.04.00:313][194]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.04.00:313][194]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.06-02.04.00:313][194]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.06-02.04.01:083][236]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.10.06-02.04.01:116][236]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMapF50D58C34F78B1812A1732B34FE00ED6.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.06-02.04.01:287][236]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_BuiltData276007094FFCBD9486E214B7F16B70A8.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.06-02.04.01:310][236]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.04.01:310][236]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.06-02.04.01:310][236]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.06-02.04.01:877][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.06-02.04.01:904][266]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap620C638D48A5804B3D9E39A19D9325C8.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.06-02.04.02:054][266]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/ThirdPersonExampleMap_BuiltData7C7B47CD4E177B73A1D63DA4443B1EF3.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.06-02.04.02:075][266]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.06-02.04.02:075][266]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.10.06-02.04.02:075][266]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.10.06-02.04.34:780][205]BlueprintLog: New page: Compile BP_Bullet
+[2020.10.06-02.04.34:862][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.10.06-02.04.35:912][263]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_Bullet031ADC224F958E1B01BE4F9728DA4DED.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Content/Weapons/Projectiles/BP_Bullet.uasset'
+[2020.10.06-02.04.35:928][263]AssetCheck: New page: Asset Save: BP_Bullet
+[2020.10.06-02.04.35:928][263]LogContentValidation: Display: Validating Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet
+[2020.10.06-02.04.38:472][409]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.06-02.04.38:488][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.06-02.04.38:488][409]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 5, 2020, 6:04:38 PM)
+[2020.10.06-02.04.38:488][409]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.06-02.04.38:499][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010559s)
+[2020.10.06-02.04.38:500][409]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.06-02.04.38:500][409]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018E0448FE00), frame # 98409
+[2020.10.06-02.04.38:500][409]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018DD5641580), frame # 98409
+[2020.10.06-02.04.38:501][409]LogPlayLevel: PIE: World Init took: (0.001599s)
+[2020.10.06-02.04.38:501][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012344s)
+[2020.10.06-02.04.38:547][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.10.06-02.04.38:548][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.06-02.04.38:548][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.06-02.04.38:549][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.06-02.04.38:549][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.06-02.04.38:549][409]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.06-02.04.38:549][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.06-02.04.38:549][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.06-02.04.38:549][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.06-02.04.38:549][409]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.06-02.04.38:549][409]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.06-02.04.38:552][409]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.06-02.04.38:552][409]LogAudioMixer: Display: 1: FrontRight
+[2020.10.06-02.04.38:642][409]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.06-02.04.38:642][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.06-02.04.38:642][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.06-02.04.38:642][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.06-02.04.38:643][409]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.06-02.04.38:658][409]LogInit: FAudioDevice initialized.
+[2020.10.06-02.04.38:719][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.04.38:719][409]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2020.10.06-02.04.38:721][409]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.05-22.04.38
+[2020.10.06-02.04.38:721][409]LogWorld: Bringing up level for play took: 0.001476
+[2020.10.06-02.04.38:722][409]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.10.06-02.04.38:729][409]PIE: Server logged in
+[2020.10.06-02.04.38:731][409]PIE: Play in editor total start time 0.243 seconds.
+[2020.10.06-02.05.05:904][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.06-02.05.05:904][ 33]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.06-02.05.05:904][ 33]LogSlate: Window 'Capstone Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.06-02.05.05:910][ 33]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-02.05.05:910][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.05.05:920][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.06-02.05.05:929][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-02.05.06:002][ 33]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018DD5641580), frame # 100033
+[2020.10.06-02.05.06:002][ 33]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018E0448FE00), frame # 100033
+[2020.10.06-02.05.06:008][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.10.06-02.05.06:041][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.10.06-03.38.20:198][706]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2020.10.06-03.38.20:201][706]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.055
+[2020.10.06-03.38.20:203][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Projectiles/BP_Bullet] ([1] browsable assets)...
+[2020.10.06-03.38.20:216][706]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Weapons/Projectiles/BP_Bullet.BP_Bullet]
+[2020.10.06-03.38.20:216][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Projectiles/BP_Bullet]
+[2020.10.06-03.38.20:251][706]LogSavePackage: Moving '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/BP_Bullet_Auto2C4C6F618498B0878E68FEFBA0EE672A7.tmp' to '../../../../../../Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Saved/Autosaves/Game/Weapons/Projectiles/BP_Bullet_Auto2.uasset'
+[2020.10.06-03.38.20:253][706]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.10.06-04.07.59:991][ 15]LogHotReload: New module detected: UE4Editor-Capstone-0001.dll
+[2020.10.06-04.08.01:026][ 19]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.06-04.08.01:135][ 19]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.06-04.08.02:048][ 19]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.912 s
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: 
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1132]
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: Unable to bind delegate to 'OnHit' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: Stack: 
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff80d9d00e8 UE4Editor-Capstone-0001.dll!DispatchCheckVerify<bool,<lambda_1b23f2969a3eac31136bc6acbf1a917b> >() [C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:161]
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff80d9c390b UE4Editor-Capstone-0001.dll!ABullet_Base::ABullet_Base() [C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp:19]
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9f44be UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9e3d4e UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9ea995 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9f6b33 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:048][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9f6e01 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9ef836 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007fffe55fecfd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007fffe5986869 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007fffe5965bf6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007fffe58843d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff80cf2987a UE4Editor-Core.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff80cf49a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff80cf48b18 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9eb9b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9eb708 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007fff9c9fc3e1 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff80ccad0a9 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff6e86aa213 UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff6e86bba7c UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff6e86bbb5a UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff6e86ce31d UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff6e86d145a UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff81f6c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: [Callstack] 0x00007ff82020ce51 ntdll.dll!UnknownFunction []
+[2020.10.06-04.08.02:049][ 19]LogOutputDevice: Error: 
+[2020.10.06-04.08.02:061][ 19]LogStats:                SubmitErrorReport -  0.000 s
+[2020.10.06-04.08.04:271][ 19]LogStats:                    SendNewReport -  2.209 s
+[2020.10.06-04.08.04:271][ 19]LogStats:             FDebug::EnsureFailed -  3.135 s
+[2020.10.06-04.08.04:272][ 19]LogHotReload: Re-instancing Bullet_Base after hot-reload.
+[2020.10.06-04.08.04:401][ 19]LogContentBrowser: Native class hierarchy updated for 'Capstone' in 0.0009 seconds. Added 11 classes and 2 folders.
+[2020.10.06-04.08.04:406][ 19]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.10.06-04.08.04:625][ 19]LogContentBrowser: Native class hierarchy populated in 0.0194 seconds. Added 3438 classes and 823 folders.
+[2020.10.06-04.08.04:635][ 19]Display: HotReload took  3.6s.
+[2020.10.06-04.08.10:712][240]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-04.08.10:712][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.06-04.08.50:276][300]Candidate modules for hot reload:
+[2020.10.06-04.08.50:276][300]  Capstone
+[2020.10.06-04.08.50:276][300]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Capstone,4113 CapstoneEditor Win64 Development -Project="C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject" "C:/Users/Shane/Documents/Unreal Projects/FPSGame_Capstone/Capstone/Capstone.uproject"  -IgnoreJunk]
+[2020.10.06-04.08.50:280][300]Warning: Starting HotReload took  0.0s.
+[2020.10.06-04.08.52:966][443]CompilerResultsLog: New page: Compilation - Oct 5, 2020, 8:08:52 PM
+[2020.10.06-04.08.52:966][443]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone).
+[2020.10.06-04.08.52:966][443]CompilerResultsLog: Building CapstoneEditor...
+[2020.10.06-04.08.52:966][443]CompilerResultsLog: Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.10.06-04.08.52:966][443]CompilerResultsLog: Distributing 3 actions to XGE
+[2020.10.06-04.08.52:966][443]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2020.10.06-04.08.52:966][443]CompilerResultsLog: License is invalid:
+[2020.10.06-04.08.52:966][443]CompilerResultsLog:     License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+[2020.10.06-04.08.52:967][443]CompilerResultsLog:     This build will run in standalone mode.
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: 
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: -------------------------------------------------------------------------------
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: UE4Editor-Capstone-4113.dll (0:00.95 at +0:00)
+[2020.10.06-04.08.52:967][443]CompilerResultsLog:    Creating library C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-4113.suppressed.lib and object C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-4113.suppressed.exp
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: UE4Editor-Capstone-4113.lib (0:00.15 at +0:00)
+[2020.10.06-04.08.52:967][443]CompilerResultsLog:    Creating library C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-4113.lib and object C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Intermediate\Build\Win64\UE4Editor\Development\Capstone\UE4Editor-Capstone-4113.exp
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: CapstoneEditor.target (0:00.25 at +0:01)
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: ---------------------- Done ----------------------
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: 
+[2020.10.06-04.08.52:967][443]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: 
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: 1 build system warning(s):
+[2020.10.06-04.08.52:967][443]CompilerResultsLog:    - License is invalid
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: 
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: Total time in XGE executor: 1.58 seconds
+[2020.10.06-04.08.52:967][443]CompilerResultsLog: Total execution time: 2.57 seconds
+[2020.10.06-04.08.52:967][443]LogMainFrame: MainFrame: Module compiling took 2.703 seconds
+[2020.10.06-04.08.53:035][443]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.06-04.08.53:548][443]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.513 s
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: === Handled ensure: ===
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: 
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1132]
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: Unable to bind delegate to 'OnHit' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: Stack: 
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007ff80c5300e8 UE4Editor-Capstone-4113.dll!DispatchCheckVerify<bool,<lambda_1b23f2969a3eac31136bc6acbf1a917b> >() [C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:161]
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007ff80c52390b UE4Editor-Capstone-4113.dll!ABullet_Base::ABullet_Base() [C:\Users\Shane\Documents\Unreal Projects\FPSGame_Capstone\Capstone\Source\Capstone\Bullet_Base.cpp:19]
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9f44be UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9e3d4e UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9ea995 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9f6b33 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9f6e01 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9ef836 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:548][443]LogOutputDevice: Error: [Callstack] 0x00007fffe55fecfd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007fffe5986869 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007fffe5965bf6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007fffe58843d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff80cf2987a UE4Editor-Core.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff80cf49a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff80cf48b18 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9eb9b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9e9617 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9ea1ad UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007fff9c9fc057 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff80ccad0a9 UE4Editor-Core.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff6e86aa213 UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff6e86bba7c UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff6e86bbb5a UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff6e86ce31d UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff6e86d145a UE4Editor.exe!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff81f6c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: [Callstack] 0x00007ff82020ce51 ntdll.dll!UnknownFunction []
+[2020.10.06-04.08.53:549][443]LogOutputDevice: Error: 

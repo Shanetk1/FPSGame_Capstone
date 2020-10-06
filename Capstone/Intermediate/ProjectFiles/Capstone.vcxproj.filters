@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Capstone.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{F1C7C3F0-CC13-46AF-BF45-E473A41A5706}</UniqueIdentifier>
+      <UniqueIdentifier>{0D83E639-9342-48DA-8F3D-37F8E8C8865A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Capstone.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{59031FEE-E86D-4467-B234-4E91F71F0D8A}</UniqueIdentifier>
+      <UniqueIdentifier>{7E25AF5B-825C-40D1-A712-A9E0733D7554}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Capstone">
-      <UniqueIdentifier>{105708B1-2243-42BF-92AA-D7180ACF4266}</UniqueIdentifier>
+      <UniqueIdentifier>{C4F49221-6890-44F2-B8D6-176F041331FE}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Capstone\AIBrain.cpp">
       <Filter>Source\Capstone</Filter>
@@ -54,6 +54,12 @@
       <Filter>Source\Capstone</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Capstone\ArriveAlgorithm.h">
+      <Filter>Source\Capstone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Capstone\Bullet_Base.cpp">
+      <Filter>Source\Capstone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Capstone\Bullet_Base.h">
       <Filter>Source\Capstone</Filter>
     </ClInclude>
     <None Include="..\..\Source\Capstone\Capstone.Build.cs">
